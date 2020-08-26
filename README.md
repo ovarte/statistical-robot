@@ -45,9 +45,29 @@
 |-- package.json
 ```
 
+#### 运行
+- 克隆项目
+
+```shell
+git clone https://github.com/ovarte/statistical-robot.git
+
+cd statistical-robot
+```
+
+- 安装依赖机器人所需依赖
+
+```shell
+npm install
+```
 
 
-#### 最后
+- 启动项目
+
+```shell
+npm serve
+```
+
+#### 后续
 
 来吧，生命在于折腾，好玩的东西总要试一试，毕竟费不了多少时间，你也可以加下我的小助手【圈子】微信体验下呦，验证消息写【前端】可以直接通过，和他聊聊天，或者加技术交流群我们一块玩耍都可以的
 
@@ -56,3 +76,10 @@
 如果你加小助手微信遇到了问题，也可以通过以下方式联系我或加群
 
 ![20200111-143924](./README.assets/20200111-143924.png)
+
+#### 致谢
+
+非常感谢Wechaty团队提供微信机器人SDK，让开发者可以专注于业务代码。  
+感谢句子互动提供的pad协议版token。  
+wechaty: <https://wechaty.github.io/>  
+juzibot: <https://www.juzibot.com>

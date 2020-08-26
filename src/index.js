@@ -1,4 +1,3 @@
-
 const { Wechaty } = require("wechaty") // Wechaty核心包
 const { PuppetPadplus } = require("wechaty-puppet-padplus") // padplus协议包
 const config = require("./config") // 配置文件
