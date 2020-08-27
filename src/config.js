@@ -1,6 +1,6 @@
 module.exports = {
   // puppet_padplus Token
-  token: "puppet_padplus_55e9c6269f00e28f",
+  token: "puppet_padplus",
   // 机器人名字
   name: "robot",
   // 房间/群聊
